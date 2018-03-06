@@ -1,0 +1,11 @@
+{
+	"articleList":[
+		{
+			"uid":1,
+			"username":"kitty"
+		},{
+			"uid":2,
+			"username":"nike"
+		}
+	]
+}
